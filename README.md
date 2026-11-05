@@ -1,2 +1,1 @@
-# Oasis-Wallet-Info
-Informacion publica 
+# Oasis Wallet Oasis Wallet es una aplicación descentralizada y no custodial diseñada para gestionar criptoactivos de forma segura. ## Descarga Próximamente disponible para las principales plataformas móviles. Mantente atento a las actualizaciones.
